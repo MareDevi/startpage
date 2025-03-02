@@ -47,9 +47,9 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "hacker-news",
-              url: "https://news.ycombinator.com/ask",
-              icon: "news",
+              name: "bilibili",
+              url: "https://bilibili.com",
+              icon: "brand-bilibili",
               icon_color: palette.mauve,
             },
             {
