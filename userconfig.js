@@ -24,7 +24,7 @@ const default_config = {
           links: [
             {
               name: "mastodon",
-              url: "https://mastodon.social",
+              url: "https://wxw.moe",
               icon: "brand-mastodon",
               icon_color: palette.green,
             },
