@@ -93,14 +93,14 @@ const default_config = {
           name: "school",
           links: [
             {
-              name: "aules",
-              url: "https://aules.edu.gva.es/semipresencial/my/index.php?lang=es",
+              name: "JWXT(BUPT)",
+              url: "https://jwgl.bupt.edu.cn/",
               icon: "school",
               icon_color: palette.green,
             },
             {
-              name: "outlook",
-              url: "https://outlook.office.com/mail/",
+              name: "ucloud",
+              url: "https://ucloud.bupt.edu.cn/",
               icon: "inbox",
               icon_color: palette.peach,
             },
