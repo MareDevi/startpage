@@ -4,7 +4,7 @@ const palette = macchiato;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Alicante",
+    location: "Beijing",
     scale: "C",
   },
   clock: {
@@ -53,8 +53,8 @@ const default_config = {
               icon_color: palette.mauve,
             },
             {
-              name: "lemmy",
-              url: "https://lemmy.ml/",
+              name: "v2ex",
+              url: "https://v2ex.com",
               icon: "users",
               icon_color: palette.sky,
             },
@@ -65,7 +65,7 @@ const default_config = {
           links: [
             {
               name: "mail",
-              url: "https://mail.proton.me",
+              url: "https://outlook.live.com/mail/0/",
               icon: "brand-campaignmonitor",
               icon_color: palette.green,
             },
