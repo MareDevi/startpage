@@ -105,11 +105,17 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "aws",
-              url: "https://awsacademy.instructure.com/",
-              icon: "brand-aws",
+              name: "信息门户",
+              url: "http://my.bupt.edu.cn",
+              icon: "inbox",
               icon_color: palette.red,
             },
+            {
+              name: "MOOC",
+              url: "https://www.icourse163.org/",
+              icon: "device-desktop",
+              icon_color: palette.blue,
+            }
           ],
         },
         {
