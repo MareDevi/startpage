@@ -917,7 +917,7 @@ const default_config = {
             {
               name: "deepseek",
               url: "https://www.deepseek.com/",
-              icon: "brand-deepseek",
+              icon: "fish",
               icon_color: palette.blue,
             }
           ],
