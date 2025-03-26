@@ -914,6 +914,12 @@ const default_config = {
               icon: "message-chatbot",
               icon_color: palette.red,
             },
+            {
+              name: "deepseek",
+              url: "https://www.deepseek.com/",
+              icon: "brand-deepseek",
+              icon_color: palette.blue,
+            }
           ],
         },
       ],
