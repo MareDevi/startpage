@@ -169,7 +169,7 @@ const default_config = {
           links: [
             {
               name: "portainer",
-              url: "http://127.0.0.1:9000",
+              url: "https://127.0.0.1:9443",
               icon: "brand-docker",
               icon_color: palette.green,
             },
