@@ -910,7 +910,7 @@ const default_config = {
             },
             {
               name: "open-webui",
-              url: "http://127.0.0.1:8080/",
+              url: "http://127.0.0.1:3000/",
               icon: "message-chatbot",
               icon_color: palette.red,
             },
