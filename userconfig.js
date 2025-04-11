@@ -77,7 +77,7 @@ const default_config = {
             },
             {
               name: "vault",
-              url: "https://vault.bitwarden.com",
+              url: "https://vw.maredevi.fun",
               icon: "lock",
               icon_color: palette.red,
             },
