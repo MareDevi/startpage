@@ -77,7 +77,7 @@ const default_config = {
             },
             {
               name: "vault",
-              url: "https://vw.maredevi.fun",
+              url: "https://bitwarden.byrio.work",
               icon: "lock",
               icon_color: palette.red,
             },
@@ -115,7 +115,7 @@ const default_config = {
               url: "https://www.icourse163.org/",
               icon: "device-desktop",
               icon_color: palette.blue,
-            }
+            },
           ],
         },
         {
@@ -884,7 +884,7 @@ const default_config = {
               url: "https://www.deepseek.com/",
               icon: "fish",
               icon_color: palette.blue,
-            }
+            },
           ],
         },
       ],
