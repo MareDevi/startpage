@@ -58,6 +58,24 @@ const default_config = {
               icon: "users",
               icon_color: palette.sky,
             },
+            {
+              name: "x",
+              url: "https://x.com/",
+              icon: "brand-x",
+              icon_color: palette.text,
+            },
+            {
+              name: "ins",
+              url: "https://www.instagram.com/",
+              icon: "brand-instagram",
+              icon_color: palette.pink,
+            },
+            {
+              name: "github",
+              url: "https://github.com",
+              icon: "brand-github",
+              icon_color: palette.green,
+            },
           ],
         },
         {
@@ -209,12 +227,6 @@ const default_config = {
         {
           name: "media",
           links: [
-            {
-              name: "github",
-              url: "https://github.com",
-              icon: "brand-github",
-              icon_color: palette.green,
-            },
             {
               name: "dev-community",
               url: "https://dev.to/",
